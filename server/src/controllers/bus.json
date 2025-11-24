@@ -1,0 +1,57 @@
+[
+    {
+      "companyname": "ABC Travels",
+      "from": "Mumbai",
+      "to": "Pune",
+      "amenities": ["WiFi", "AC", "Charging Point"],
+      "arrival": "09:00 AM",
+      "departure": "06:00 AM",
+      "email": "abc@example.com",
+      "phone": "1234567890",
+      "price": 500,
+      "ratings": [
+        { "stars": 5, "count": 20 },
+        { "stars": 4, "count": 30 },
+        { "stars": 3, "count": 10 },
+        { "stars": 2, "count": 5 },
+        { "stars": 1, "count": 2 }
+      ]
+    },
+    {
+      "companyname": "XYZ Tours",
+      "from": "Delhi",
+      "to": "Jaipur",
+      "amenities": ["AC", "Charging Point"],
+      "arrival": "12:00 PM",
+      "departure": "09:00 AM",
+      "email": "xyz@example.com",
+      "phone": "9876543210",
+      "price": 700,
+      "ratings": [
+        { "stars": 5, "count": 15 },
+        { "stars": 4, "count": 25 },
+        { "stars": 3, "count": 12 },
+        { "stars": 2, "count": 6 },
+        { "stars": 1, "count": 3 }
+      ]
+    },
+    {
+      "companyname": "PQR Travels",
+      "from": "Bangalore",
+      "to": "Chennai",
+      "amenities": ["AC"],
+      "arrival": "04:00 PM",
+      "departure": "01:00 PM",
+      "email": "pqr@example.com",
+      "phone": "5678901234",
+      "price": 600,
+      "ratings": [
+        { "stars": 5, "count": 25 },
+        { "stars": 4, "count": 20 },
+        { "stars": 3, "count": 8 },
+        { "stars": 2, "count": 3 },
+        { "stars": 1, "count": 1 }
+      ]
+    }
+  ]
+  
